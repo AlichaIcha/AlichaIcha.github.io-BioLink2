@@ -5,7 +5,7 @@ const settings = {
     metaDescription: "Developer & Creator",
     metaKeywords: "Alicha, profil, siapa Alicha?",
     metaRobots: "index, follow",
-    profileImage: "media/profile.jpg",
+    profileImage: "profile.jpg",
     name: "Alicha Dinastira ",
     occupation: "Creator & Developer",
     location: "📍 Bekasi Timur, Jawa Barat, Indonesia",
